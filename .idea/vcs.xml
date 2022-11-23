@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/AplikasiMusikKita" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Formulir-Lomba-Programming" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ImpilicitIntent" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RelativeSiair" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/UTSRadit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/relative-layout-atalarikdjorgie" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pahlawanku" vcs="Git" />
   </component>
 </project>
